@@ -50,6 +50,363 @@
         { "teamId": "alpine", "position": 10 },
         { "teamId": "cadillac", "position": 11 }
       ]
+    },
+    {
+      "race": "Bahrain",
+      "raceIndex": 3,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mercedes", "position": 2 },
+        { "teamId": "mclaren", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "haas", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Saudi Arabia",
+      "raceIndex": 4,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "aston_martin", "position": 6 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "haas", "position": 8 },
+        { "teamId": "cadillac", "position": 9 },
+        { "teamId": "alpine", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Miami",
+      "raceIndex": 5,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "racing_bulls", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Emilia Romagna",
+      "raceIndex": 6,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "racing_bulls", "position": 4 },
+        { "teamId": "mercedes", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "alpine", "position": 7 },
+        { "teamId": "aston_martin", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Monaco",
+      "raceIndex": 7,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "haas", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Spain",
+      "raceIndex": 8,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Canada",
+      "raceIndex": 9,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "mercedes", "position": 2 },
+        { "teamId": "ferrari", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "haas", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "aston_martin", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Austria",
+      "raceIndex": 10,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "redbull", "position": 2 },
+        { "teamId": "ferrari", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "aston_martin", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Great Britain",
+      "raceIndex": 11,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "aston_martin", "position": 6 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Belgium",
+      "raceIndex": 12,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "alpine", "position": 7 },
+        { "teamId": "haas", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Hungary",
+      "raceIndex": 13,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "cadillac", "position": 9 },
+        { "teamId": "alpine", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Netherlands",
+      "raceIndex": 14,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "redbull", "position": 2 },
+        { "teamId": "ferrari", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "aston_martin", "position": 6 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Italy",
+      "raceIndex": 15,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Azerbaijan",
+      "raceIndex": 16,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "aston_martin", "position": 6 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "haas", "position": 8 },
+        { "teamId": "cadillac", "position": 9 },
+        { "teamId": "alpine", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Singapore",
+      "raceIndex": 17,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "United States",
+      "raceIndex": 18,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "haas", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Mexico",
+      "raceIndex": 19,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Brazil",
+      "raceIndex": 20,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "redbull", "position": 2 },
+        { "teamId": "ferrari", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Las Vegas",
+      "raceIndex": 21,
+      "standings": [
+        { "teamId": "mercedes", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mclaren", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "cadillac", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Qatar",
+      "raceIndex": 22,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "haas", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "cadillac", "position": 9 },
+        { "teamId": "alpine", "position": 10 },
+        { "teamId": "audi", "position": 11 }
+      ]
+    },
+    {
+      "race": "Abu Dhabi",
+      "raceIndex": 23,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "aston_martin", "position": 6 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
     }
   ]
 }
