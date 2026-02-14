@@ -1,0 +1,68 @@
+{
+  "players": [
+    {
+      "name": "Роман",
+      "predictions": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "audi", "position": 6 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "aston_martin", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "alpine", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "name": "Александр",
+      "predictions": [
+        { "teamId": "mercedes", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "ferrari", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "haas", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "audi", "position": 9 },
+        { "teamId": "williams", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "name": "Даняслав",
+      "predictions": [
+        { "teamId": "mclaren", "position": 3 },
+        { "teamId": "redbull", "position": 2 },
+        { "teamId": "ferrari", "position": 4 },
+        { "teamId": "mercedes", "position": 1 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "williams", "position": 11 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "audi", "position": 9 },
+        { "teamId": "cadillac", "position": 10 }
+      ]
+    },
+    {
+      "name": "Claude",
+      "predictions": [
+        { "teamId": "mclaren", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 1 },
+        { "teamId": "racing_bulls", "position": 9 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "aston_martin", "position": 11 },
+        { "teamId": "haas", "position": 5 },
+        { "teamId": "alpine", "position": 6 },
+        { "teamId": "audi", "position": 8 },
+        { "teamId": "cadillac", "position": 10 }
+      ]
+    }
+  ]
+}

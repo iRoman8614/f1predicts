@@ -1,0 +1,55 @@
+{
+  "results": [
+    {
+      "race": "Australia",
+      "raceIndex": 0,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "redbull", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "haas", "position": 6 },
+        { "teamId": "aston_martin", "position": 7 },
+        { "teamId": "williams", "position": 8 },
+        { "teamId": "alpine", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "China",
+      "raceIndex": 1,
+      "standings": [
+        { "teamId": "ferrari", "position": 1 },
+        { "teamId": "mclaren", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "racing_bulls", "position": 6 },
+        { "teamId": "haas", "position": 7 },
+        { "teamId": "alpine", "position": 8 },
+        { "teamId": "williams", "position": 9 },
+        { "teamId": "audi", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    },
+    {
+      "race": "Japan",
+      "raceIndex": 2,
+      "standings": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "redbull", "position": 2 },
+        { "teamId": "ferrari", "position": 3 },
+        { "teamId": "mercedes", "position": 4 },
+        { "teamId": "racing_bulls", "position": 5 },
+        { "teamId": "aston_martin", "position": 6 },
+        { "teamId": "williams", "position": 7 },
+        { "teamId": "haas", "position": 8 },
+        { "teamId": "audi", "position": 9 },
+        { "teamId": "alpine", "position": 10 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
+    }
+  ]
+}

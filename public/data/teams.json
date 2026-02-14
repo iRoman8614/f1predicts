@@ -1,0 +1,22 @@
+{
+  "teams": [
+    { "id": "mclaren", "name": "McLaren", "color": "#FF8000" },
+    { "id": "ferrari", "name": "Ferrari", "color": "#E8002D" },
+    { "id": "mercedes", "name": "Mercedes", "color": "#27F4D2" },
+    { "id": "redbull", "name": "Red Bull", "color": "#3671C6" },
+    { "id": "racing_bulls", "name": "Racing Bulls", "color": "#6692FF" },
+    { "id": "audi", "name": "Audi", "color": "#00E701" },
+    { "id": "haas", "name": "Haas", "color": "#B6BABD" },
+    { "id": "aston_martin", "name": "Aston Martin", "color": "#229971" },
+    { "id": "williams", "name": "Williams", "color": "#64C4FF" },
+    { "id": "alpine", "name": "Alpine", "color": "#FF87BC" },
+    { "id": "cadillac", "name": "Cadillac", "color": "#C0C0C0" }
+  ],
+  "races": [
+    "Australia", "China", "Japan", "Bahrain", "Saudi Arabia",
+    "Miami", "Emilia Romagna", "Monaco", "Spain", "Canada",
+    "Austria", "Great Britain", "Belgium", "Hungary", "Netherlands",
+    "Italy", "Azerbaijan", "Singapore", "United States", "Mexico",
+    "Brazil", "Las Vegas", "Qatar", "Abu Dhabi"
+  ]
+}
