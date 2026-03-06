@@ -63,6 +63,22 @@
         { "teamId": "audi", "position": 8 },
         { "teamId": "cadillac", "position": 10 }
       ]
+    },
+    {
+      "name": "Valvdov",
+      "predictions": [
+        { "teamId": "mclaren", "position": 1 },
+        { "teamId": "redbull", "position": 4 },
+        { "teamId": "ferrari", "position": 2 },
+        { "teamId": "mercedes", "position": 3 },
+        { "teamId": "racing_bulls", "position": 9 },
+        { "teamId": "williams", "position": 6 },
+        { "teamId": "aston_martin", "position": 5 },
+        { "teamId": "haas", "position": 8 },
+        { "teamId": "alpine", "position": 20 },
+        { "teamId": "audi", "position": 7 },
+        { "teamId": "cadillac", "position": 11 }
+      ]
     }
   ]
 }
